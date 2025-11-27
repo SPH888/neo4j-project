@@ -1,0 +1,51 @@
+from_person_id,to_person_id,article_id,share_date,share_method,share_context,read_status,forward_status,time_to_read_hours,engagement_score
+per_001,per_002,art_002,2025-11-10T09:15:00,Email,FYI - big news on our GIP investment,Read,Forwarded,0.5,High
+per_002,per_006,art_002,2025-11-10T10:30:00,Slack,Team should see this,Read,Forwarded,1.2,High
+per_002,per_012,art_002,2025-11-10T10:45:00,Email,Relevant for your portfolio,Read,Not forwarded,2.1,Medium
+per_006,per_015,art_002,2025-11-10T14:20:00,Teams,Discussed in standup,Read,Forwarded,0.3,High
+per_006,per_018,art_002,2025-11-10T14:20:00,Teams,For IC review,Read,Not forwarded,1.5,High
+per_015,per_022,art_002,2025-11-11T08:00:00,Email,For morning briefing,Read,Not forwarded,0.8,Medium
+per_003,per_011,art_005,2025-10-28T11:00:00,Email,Brookfield expansion - competitor intel,Read,Forwarded,0.2,High
+per_011,per_021,art_005,2025-10-28T13:30:00,Slack,Market intel for strategy meeting,Read,Forwarded,1.0,High
+per_011,per_025,art_005,2025-10-28T13:45:00,WhatsApp,Quick heads up,Read,Not forwarded,0.1,Medium
+per_021,per_033,art_005,2025-10-28T16:00:00,Email,For your EMEA analysis,Read,Forwarded,2.5,High
+per_033,per_040,art_005,2025-10-29T09:00:00,Email,Quarterly report input,Read,Not forwarded,24,Low
+per_007,per_005,art_009,2025-10-15T10:00:00,Slack,Digital infrastructure opportunity,Read,Forwarded,0.5,High
+per_005,per_009,art_009,2025-10-15T11:30:00,Email,Aligns with our thesis,Read,Forwarded,1.0,High
+per_005,per_014,art_009,2025-10-15T11:30:00,Email,DD team should review,Read,Not forwarded,2.0,Medium
+per_009,per_026,art_009,2025-10-15T15:00:00,Teams,For tech committee,Read,Not forwarded,3.5,Medium
+per_013,per_010,art_010,2025-10-10T09:00:00,Email,Q3 performance data,Read,Forwarded,1.0,High
+per_010,per_023,art_010,2025-10-10T10:30:00,Slack,LP reporting input,Read,Forwarded,0.5,High
+per_010,per_024,art_010,2025-10-10T10:45:00,Email,Benchmark comparison,Read,Not forwarded,1.2,Medium
+per_023,per_031,art_010,2025-10-10T14:00:00,Email,For newsletter,Read,Forwarded,2.0,Medium
+per_031,per_034,art_010,2025-10-10T16:30:00,Teams,Marketing content,Unread,Not forwarded,48,Low
+per_008,per_004,art_003,2025-11-07T08:30:00,Email,CIP fund - massive raise,Read,Forwarded,0.3,High
+per_004,per_030,art_003,2025-11-07T09:00:00,Slack,Competition heating up,Read,Forwarded,0.2,High
+per_030,per_038,art_003,2025-11-07T11:00:00,Email,Strategic implications,Read,Not forwarded,1.5,High
+per_004,per_027,art_003,2025-11-07T09:15:00,WhatsApp,Urgent - see this,Read,Forwarded,0.1,High
+per_027,per_041,art_003,2025-11-07T12:00:00,Email,Board update needed,Read,Not forwarded,2.0,High
+per_016,per_019,art_017,2025-09-22T10:00:00,Email,ESG angle for our fund,Read,Forwarded,1.0,Medium
+per_019,per_032,art_017,2025-09-22T11:30:00,Teams,Sustainability report input,Read,Forwarded,0.8,High
+per_032,per_044,art_017,2025-09-22T14:00:00,Email,LP presentation content,Read,Not forwarded,2.5,Medium
+per_019,per_025,art_017,2025-09-22T11:45:00,Slack,Impact metrics example,Read,Not forwarded,1.2,Low
+per_020,per_003,art_020,2025-09-15T09:00:00,Email,Brookfield interview - insights,Read,Forwarded,0.5,High
+per_003,per_035,art_020,2025-09-15T10:00:00,Slack,Strategic positioning,Read,Forwarded,0.7,High
+per_035,per_042,art_020,2025-09-15T14:00:00,Email,Competitive analysis,Read,Not forwarded,3.0,Medium
+per_003,per_028,art_020,2025-09-15T10:15:00,Email,Partnership opportunity?,Read,Forwarded,1.0,High
+per_028,per_045,art_020,2025-09-15T16:00:00,Teams,BD discussion point,Read,Not forwarded,4.0,Medium
+per_001,per_007,art_001,2025-11-14T08:00:00,Email,Morning brief - Infranity close,Read,Forwarded,0.2,High
+per_007,per_039,art_001,2025-11-14T08:30:00,Slack,Debt fund opportunity,Read,Not forwarded,0.5,Medium
+per_001,per_013,art_001,2025-11-14T08:00:00,Email,European market update,Read,Forwarded,0.3,High
+per_013,per_046,art_001,2025-11-14T10:00:00,Email,Regional analysis,Read,Not forwarded,1.5,Low
+per_001,per_021,art_001,2025-11-14T08:00:00,Email,Market intel,Read,Not forwarded,0.7,Medium
+per_012,per_017,art_012,2025-10-05T11:00:00,Email,Opinion piece - controversial,Read,Forwarded,1.0,High
+per_017,per_029,art_012,2025-10-05T13:00:00,Slack,Risk committee should see,Read,Forwarded,0.5,High
+per_029,per_037,art_012,2025-10-05T15:30:00,Email,Reputation considerations,Read,Not forwarded,2.0,Medium
+per_017,per_026,art_012,2025-10-05T13:15:00,Teams,PR response needed?,Read,Not forwarded,1.2,High
+per_024,per_034,art_025,2025-09-02T09:00:00,Email,Q3 data for model,Read,Forwarded,2.0,Medium
+per_034,per_040,art_025,2025-09-02T14:00:00,Slack,Updated projections,Read,Not forwarded,3.0,Low
+per_034,per_048,art_025,2025-09-02T14:30:00,Email,Analyst input needed,Unread,Not forwarded,72,Low
+per_002,per_018,art_004,2025-11-03T09:00:00,Email,KKR closing - major deal,Read,Forwarded,0.5,High
+per_018,per_036,art_004,2025-11-03T10:30:00,Teams,Americas market heat,Read,Not forwarded,1.5,Medium
+per_018,per_043,art_004,2025-11-03T10:45:00,Email,Syndication opportunity,Read,Forwarded,1.0,High
+per_043,per_050,art_004,2025-11-03T15:00:00,Slack,Co-invest potential,Read,Not forwarded,3.5,Medium
