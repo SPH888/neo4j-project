@@ -1,0 +1,58 @@
+article_id,transaction_id,mention_context,mention_prominence,deal_stage,sentiment,coverage_type
+art_001,2024-I2573-2880,Deal announcement,Primary,Announced,Positive,Breaking news
+art_001,2024-I3048-2904,Market comparison,Secondary,Closed,Neutral,Analysis
+art_002,2024-I3048-2904,Lead story,Primary,Closing,Positive,Exclusive
+art_002,2024-I2981-2789,Related transaction,Secondary,Announced,Neutral,Context
+art_003,2024-I3214-2901,Sector analysis,Secondary,Due diligence,Positive,Market report
+art_004,2024-I2765-2856,Deal focus,Primary,Signed,Positive,Transaction update
+art_004,2024-I3089-2934,Portfolio context,Tertiary,Closed,Neutral,Historical reference
+art_005,2024-I2812-2745,Major acquisition,Primary,Announced,Positive,Feature story
+art_006,2024-I3156-2867,European deal,Primary,Closing,Positive,Regional coverage
+art_007,2024-I2901-2812,Infrastructure transaction,Primary,Due diligence,Neutral,Sector report
+art_008,2024-I3234-2923,LP perspective,Secondary,Closed,Mixed,Analysis
+art_008,2024-I2678-2790,Historical deal,Tertiary,Closed,Neutral,Comparison
+art_009,2024-I3078-2845,Digital infrastructure,Primary,Announced,Positive,Deal spotlight
+art_010,2024-I2945-2756,Quarterly highlight,Primary,Closed,Positive,Performance review
+art_010,2024-I3167-2889,Market activity,Secondary,Due diligence,Neutral,Pipeline coverage
+art_011,2024-I2723-2801,Executive interview,Secondary,Signed,Positive,Leadership view
+art_012,2024-I3201-2912,Opinion piece,Tertiary,Announced,Critical,Market commentary
+art_013,2024-I2856-2834,Market analysis,Primary,Closing,Mixed,Deep dive
+art_013,2024-I3145-2878,Comparison point,Secondary,Closed,Neutral,Benchmark
+art_014,2024-I2573-2880,Quarter review,Secondary,Closed,Positive,Retrospective
+art_015,2024-I3048-2904,Year highlight,Primary,Closed,Positive,Annual review
+art_016,2024-I2981-2789,Board update,Secondary,Closed,Neutral,Portfolio review
+art_017,2024-I3214-2901,ESG focus,Primary,Due diligence,Positive,Sustainability angle
+art_018,2024-I2765-2856,Breaking news,Primary,Announced,Neutral,News flash
+art_019,2024-I3089-2934,Deal closing,Primary,Closed,Positive,Completion announcement
+art_020,2024-I2812-2745,Strategic move,Primary,Integration,Positive,Post-merger update
+art_021,2024-I3156-2867,Market trends,Secondary,Closed,Neutral,Trend analysis
+art_022,2024-I2901-2812,Strategy discussion,Tertiary,Closed,Mixed,Strategic review
+art_023,2024-I3234-2923,Digital focus,Primary,Announced,Positive,Tech spotlight
+art_024,2024-I2678-2790,Case study,Primary,Closed,Positive,Success story
+art_025,2024-I3078-2845,Data point,Secondary,Closed,Neutral,Statistical analysis
+art_026,2024-I2945-2756,Asia coverage,Primary,Due diligence,Positive,Regional deal
+art_027,2024-I3167-2889,ESG case,Primary,Announced,Positive,Impact story
+art_028,2024-I2723-2801,Weekly roundup,Secondary,Closed,Neutral,News digest
+art_029,2024-I3201-2912,Energy deal,Primary,Closing,Positive,Sector coverage
+art_030,2024-I2856-2834,Team update,Tertiary,Closed,Neutral,Internal news
+art_003,2024-I2765-2856,Competitive landscape,Secondary,Announced,Neutral,Market context
+art_005,2024-I3145-2878,Mega-deal comparison,Secondary,Due diligence,Positive,Size analysis
+art_007,2024-I2573-2880,Follow-up coverage,Secondary,Integration,Neutral,Progress update
+art_009,2024-I2812-2745,Technology angle,Secondary,Closed,Positive,Innovation focus
+art_011,2024-I3234-2923,Interview mention,Tertiary,Closed,Neutral,Executive quote
+art_013,2024-I3089-2934,Market dynamics,Secondary,Closed,Mixed,Competition analysis
+art_015,2024-I2678-2790,Historical context,Tertiary,Closed,Neutral,Timeline reference
+art_017,2024-I2901-2812,Climate angle,Primary,Due diligence,Positive,Green finance
+art_019,2024-I3156-2867,Completion news,Primary,Closed,Positive,Final announcement
+art_021,2024-I2945-2756,Valuation analysis,Secondary,Closed,Mixed,Price discovery
+art_023,2024-I3078-2845,Infrastructure boom,Secondary,Announced,Positive,Sector momentum
+art_025,2024-I2723-2801,Returns analysis,Secondary,Closed,Neutral,Performance data
+art_027,2024-I3167-2889,Sustainability metrics,Secondary,Due diligence,Positive,ESG scoring
+art_029,2024-I3201-2912,Transition deal,Primary,Announced,Positive,Energy transition
+art_001,2024-I3089-2934,Pipeline mention,Tertiary,Due diligence,Neutral,Future deals
+art_004,2024-I2678-2790,Precedent transaction,Secondary,Closed,Neutral,Valuation comp
+art_008,2024-I2901-2812,LP interest,Secondary,Announced,Positive,Investor view
+art_012,2024-I3048-2904,Controversial view,Primary,Closed,Critical,Opinion piece
+art_016,2024-I2765-2856,Strategic rationale,Secondary,Integration,Positive,Board perspective
+art_020,2024-I3214-2901,Integration success,Primary,Integration,Positive,Case study
+art_024,2024-I2573-2880,Long-term impact,Primary,Integration,Positive,Value creation

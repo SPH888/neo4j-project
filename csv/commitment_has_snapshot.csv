@@ -1,0 +1,9 @@
+commitment_id,snapshot_id,snapshot_date
+commit_001,snap_004,2023-12-31
+commit_001,snap_005,2023-09-30
+commit_002,snap_008,2023-12-31
+commit_003,snap_011,2023-12-31
+commit_004,snap_013,2023-12-31
+commit_005,snap_016,2023-12-31
+commit_017,snap_018,2023-12-31
+commit_019,snap_020,2023-12-31

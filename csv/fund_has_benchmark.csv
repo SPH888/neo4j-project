@@ -1,0 +1,37 @@
+fund_id,benchmark_id,benchmark_start_date,benchmark_type,primary_benchmark,reporting_frequency,target_outperformance_bps
+fund_001,bm_001,2020-01-15,Primary,true,Quarterly,300
+fund_001,bm_004,2020-01-15,Secondary,false,Quarterly,250
+fund_002,bm_001,2021-03-01,Primary,true,Quarterly,350
+fund_002,bm_006,2021-03-01,Secondary,false,Annual,300
+fund_003,bm_002,2020-06-15,Primary,true,Quarterly,275
+fund_004,bm_003,2021-09-01,Primary,true,Monthly,400
+fund_005,bm_005,2019-11-01,Primary,true,Quarterly,325
+fund_005,bm_001,2019-11-01,Secondary,false,Quarterly,300
+fund_006,bm_006,2018-05-15,Primary,true,Quarterly,250
+fund_007,bm_007,2022-01-20,Primary,true,Quarterly,350
+fund_008,bm_001,2020-08-01,Primary,true,Quarterly,300
+fund_008,bm_008,2020-08-01,Secondary,false,Annual,275
+fund_009,bm_002,2021-11-15,Primary,true,Quarterly,325
+fund_010,bm_009,2020-04-01,Primary,true,Monthly,375
+fund_011,bm_010,2019-07-15,Primary,true,Quarterly,300
+fund_012,bm_011,2021-02-01,Primary,true,Quarterly,350
+fund_013,bm_001,2022-06-15,Primary,true,Quarterly,275
+fund_013,bm_012,2022-06-15,Secondary,false,Quarterly,250
+fund_014,bm_002,2023-03-01,Primary,true,Quarterly,300
+fund_015,bm_013,2023-09-01,Primary,true,Quarterly,325
+fund_016,bm_014,2022-12-15,Primary,true,Monthly,400
+fund_017,bm_015,2020-10-01,Primary,true,Quarterly,275
+fund_018,bm_016,2021-05-15,Primary,true,Quarterly,350
+fund_018,bm_001,2021-05-15,Secondary,false,Annual,300
+fund_019,bm_001,2023-07-01,Primary,true,Quarterly,325
+fund_020,bm_017,2022-03-15,Primary,true,Quarterly,300
+fund_001,bm_018,2021-01-01,Peer Group,false,Annual,200
+fund_002,bm_018,2021-06-01,Peer Group,false,Annual,200
+fund_003,bm_019,2020-09-01,ESG Benchmark,false,Annual,150
+fund_004,bm_020,2022-01-01,ESG Benchmark,false,Semi-Annual,175
+fund_005,bm_018,2020-03-01,Peer Group,false,Annual,225
+fund_007,bm_019,2022-06-01,ESG Benchmark,false,Annual,150
+fund_009,bm_018,2022-03-01,Peer Group,false,Annual,200
+fund_011,bm_020,2020-01-01,ESG Benchmark,false,Semi-Annual,175
+fund_014,bm_018,2023-06-01,Peer Group,false,Annual,250
+fund_017,bm_019,2021-01-01,ESG Benchmark,false,Annual,150

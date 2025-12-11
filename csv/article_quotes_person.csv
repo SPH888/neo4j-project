@@ -1,0 +1,53 @@
+article_id,person_id,quote_context,quote_type,quote_date,quote_length,sentiment
+art_001,per_001,Market outlook,Expert Opinion,2025-11-14,Long,Positive
+art_001,per_008,Fund performance,Commentary,2025-11-14,Short,Neutral
+art_002,per_002,Fundraising success,Executive Statement,2025-11-10,Long,Positive
+art_002,per_001,Market conditions,Analysis,2025-11-10,Medium,Positive
+art_003,per_008,Renewable energy,Industry Insight,2025-11-07,Long,Positive
+art_004,per_006,Deal closing,Official Statement,2025-11-03,Short,Positive
+art_004,per_010,LP perspective,Commentary,2025-11-03,Medium,Neutral
+art_005,per_003,Strategy update,Executive Quote,2025-10-28,Long,Positive
+art_006,per_004,Digital infrastructure,Market View,2025-10-25,Medium,Positive
+art_007,per_007,Solar opportunities,Expert Analysis,2025-10-22,Long,Positive
+art_008,per_013,LP strategy,Investment Philosophy,2025-10-18,Long,Neutral
+art_008,per_021,Market trends,Commentary,2025-10-18,Short,Neutral
+art_009,per_005,Technology focus,Executive Vision,2025-10-15,Long,Positive
+art_010,per_010,Quarterly review,Market Report,2025-10-10,Medium,Neutral
+art_010,per_023,Performance analysis,Expert View,2025-10-10,Long,Mixed
+art_011,per_015,Leadership perspective,Interview,2025-10-08,Long,Positive
+art_012,per_012,Market opinion,Op-Ed Contributor,2025-10-05,Long,Critical
+art_013,per_011,Investment climate,Analysis,2025-10-03,Medium,Neutral
+art_014,per_016,Quarterly update,Official Comment,2025-09-30,Short,Positive
+art_015,per_017,Industry trends,Feature Quote,2025-09-27,Long,Positive
+art_015,per_020,Regional perspective,Commentary,2025-09-27,Medium,Neutral
+art_016,per_002,Board perspective,Executive Update,2025-09-25,Medium,Positive
+art_017,per_018,Sustainability focus,ESG Commentary,2025-09-22,Long,Positive
+art_018,per_019,Breaking development,News Quote,2025-09-20,Short,Neutral
+art_019,per_006,Deal announcement,Official Statement,2025-09-18,Medium,Positive
+art_020,per_003,Strategic vision,Leadership Interview,2025-09-15,Long,Positive
+art_020,per_033,Market analysis,Expert Opinion,2025-09-15,Medium,Neutral
+art_021,per_021,Economic outlook,Market Analysis,2025-09-12,Long,Mixed
+art_022,per_022,Strategy discussion,Internal View,2025-09-10,Medium,Neutral
+art_023,per_007,Digital transformation,Vision Statement,2025-09-07,Long,Positive
+art_024,per_023,Feature perspective,In-depth Quote,2025-09-05,Long,Positive
+art_025,per_024,Quarterly insights,Data Commentary,2025-09-02,Medium,Neutral
+art_025,per_034,Statistical analysis,Expert Review,2025-09-02,Long,Neutral
+art_026,per_009,Asia Pacific view,Regional Head Quote,2025-08-30,Medium,Positive
+art_027,per_025,ESG strategy,Sustainability Quote,2025-08-28,Long,Positive
+art_028,per_026,Weekly summary,Market Digest,2025-08-25,Short,Neutral
+art_029,per_027,Energy transition,Sector Expert,2025-08-22,Long,Positive
+art_030,per_028,Team perspective,Internal Update,2025-08-20,Short,Neutral
+art_001,per_012,Competition view,Industry Analysis,2025-11-14,Medium,Mixed
+art_003,per_030,Fund strategy,GP Perspective,2025-11-07,Long,Positive
+art_005,per_011,Market opportunity,Investment View,2025-10-28,Medium,Positive
+art_007,per_040,Renewables outlook,Sector Analysis,2025-10-22,Long,Positive
+art_009,per_022,Tech infrastructure,Expert Commentary,2025-10-15,Medium,Positive
+art_011,per_045,Executive insights,Leadership Quote,2025-10-08,Long,Positive
+art_013,per_038,Market dynamics,Analysis Quote,2025-10-03,Medium,Neutral
+art_017,per_032,Climate strategy,ESG Quote,2025-09-22,Long,Positive
+art_019,per_039,Deal rationale,Transaction Quote,2025-09-18,Medium,Positive
+art_022,per_044,Strategic thinking,Opinion Quote,2025-09-10,Long,Mixed
+art_024,per_029,Long-term view,Feature Interview,2025-09-05,Long,Positive
+art_026,per_041,Asia growth,Regional Commentary,2025-08-30,Medium,Positive
+art_028,per_043,Market pulse,Weekly Commentary,2025-08-25,Short,Neutral
+art_030,per_045,Closing thoughts,Team Message,2025-08-20,Short,Positive

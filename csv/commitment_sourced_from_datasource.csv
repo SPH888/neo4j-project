@@ -1,0 +1,11 @@
+commitment_id,source_id,extraction_date
+commit_001,ds_008,2023-06-15
+commit_002,ds_015,2024-09-01
+commit_003,ds_016,2023-11-30
+commit_004,ds_014,2022-03-15
+commit_005,ds_014,2021-07-01
+commit_006,ds_008,2022-12-15
+commit_007,ds_015,2021-06-30
+commit_008,ds_014,2020-09-15
+commit_009,ds_007,2023-03-01
+commit_010,ds_017,2022-09-30

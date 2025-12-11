@@ -1,0 +1,46 @@
+podcast_id,fund_id,mention_count,context,discussion_depth
+pod_2024_001,fund_001,8,fund_strategy,Deep Dive
+pod_2024_002,fund_002,5,performance_review,Detailed Analysis
+pod_2024_003,fund_003,3,market_comparison,Brief Mention
+pod_2024_004,fund_001,12,fund_launch,Primary Focus
+pod_2024_005,fund_004,7,investment_thesis,Extended Discussion
+pod_2024_006,fund_005,4,portfolio_overview,Moderate Coverage
+pod_2024_007,fund_006,9,fundraising_update,In-Depth
+pod_2024_008,fund_007,2,quick_reference,Passing Mention
+pod_2024_009,fund_008,11,case_study,Comprehensive Review
+pod_2024_010,fund_009,6,sector_focus,Substantial Discussion
+pod_2024_011,fund_010,5,vintage_comparison,Comparative Analysis
+pod_2024_012,fund_001,7,quarterly_update,Regular Update
+pod_2024_013,fund_011,10,emerging_markets,Featured Fund
+pod_2024_014,fund_012,3,co_investment,Brief Context
+pod_2024_015,fund_013,8,esg_strategy,Thematic Discussion
+pod_2024_016,fund_014,4,exit_discussion,Transaction Context
+pod_2024_017,fund_015,6,deployment_pace,Market Analysis
+pod_2024_018,fund_016,9,team_changes,Organizational Update
+pod_2024_019,fund_017,5,geographic_expansion,Strategy Discussion
+pod_2024_020,fund_018,7,sector_rotation,Investment Approach
+pod_2024_001,fund_019,3,benchmark_comparison,Performance Context
+pod_2024_002,fund_020,4,lp_perspective,Investor View
+pod_2024_003,fund_002,6,follow_up_discussion,Previous Topic Revisited
+pod_2024_004,fund_021,8,first_close,Fundraising Milestone
+pod_2024_005,fund_022,5,succession_planning,Leadership Transition
+pod_2024_006,fund_001,4,anniversary_special,10-Year Retrospective
+pod_2024_007,fund_023,7,dry_powder,Capital Deployment
+pod_2024_008,fund_024,3,regulatory_impact,Compliance Discussion
+pod_2024_009,fund_003,5,portfolio_company_exit,Success Story
+pod_2024_010,fund_025,9,infrastructure_boom,Market Opportunity
+pod_2024_011,fund_004,2,sidebar_mention,Related Context
+pod_2024_012,fund_026,6,energy_transition,Thematic Investment
+pod_2024_013,fund_027,8,digital_infrastructure,Sector Deep Dive
+pod_2024_014,fund_005,4,value_creation,Operational Excellence
+pod_2024_015,fund_028,7,secondaries_market,LP Transaction
+pod_2024_016,fund_029,5,continuation_fund,Fund Extension
+pod_2024_017,fund_006,3,market_outlook,Future Projections
+pod_2024_018,fund_030,11,flagship_fund,Detailed Breakdown
+pod_2024_019,fund_007,6,risk_management,Investment Discipline
+pod_2024_020,fund_031,4,emerging_manager,New Entrant
+pod_2024_001,fund_008,5,year_end_review,Annual Summary
+pod_2024_002,fund_032,7,impact_investing,ESG Focus
+pod_2024_003,fund_009,3,distressed_opportunity,Special Situation
+pod_2024_004,fund_033,9,mega_fund,Large Cap Discussion
+pod_2024_005,fund_010,6,mid_market,Segment Analysis

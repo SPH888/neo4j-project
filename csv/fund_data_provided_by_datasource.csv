@@ -1,0 +1,49 @@
+fund_id,datasource_id,data_type,coverage_start_date,coverage_end_date,update_frequency,data_completeness,primary_source
+fund_001,source_001,Fund Data,2020-01-01,2024-12-31,Daily,100,true
+fund_001,source_009,Performance Metrics,2020-01-01,2024-12-31,Quarterly,95,false
+fund_001,source_014,Market Intelligence,2020-01-01,2024-12-31,Weekly,85,false
+fund_002,source_001,Fund Data,2021-01-01,2024-12-31,Daily,100,true
+fund_002,source_010,Alternative Data,2021-01-01,2024-12-31,Monthly,90,false
+fund_002,source_015,ESG Metrics,2021-01-01,2024-12-31,Quarterly,75,false
+fund_003,source_001,Fund Data,2019-01-01,2024-12-31,Daily,100,true
+fund_003,source_011,Performance Benchmarks,2019-01-01,2024-12-31,Quarterly,95,false
+fund_003,source_016,Industry Analysis,2019-01-01,2024-12-31,Monthly,80,false
+fund_004,source_002,LP Reporting,2018-01-01,2024-12-31,Quarterly,100,true
+fund_004,source_012,Market Data,2018-01-01,2024-12-31,Daily,95,false
+fund_005,source_003,LP System,2020-01-01,2024-12-31,Quarterly,100,true
+fund_005,source_013,Third Party Data,2020-01-01,2024-12-31,Monthly,85,false
+fund_006,source_004,LP Portal,2019-01-01,2024-12-31,Quarterly,100,true
+fund_006,source_014,Market Intelligence,2019-01-01,2024-12-31,Weekly,90,false
+fund_007,source_005,Direct Feed,2021-01-01,2024-12-31,Monthly,100,true
+fund_007,source_011,Performance Benchmarks,2021-01-01,2024-12-31,Quarterly,95,false
+fund_008,source_006,LP Reports,2017-01-01,2024-12-31,Quarterly,100,true
+fund_008,source_009,Performance Metrics,2017-01-01,2024-12-31,Quarterly,95,false
+fund_009,source_007,Investor Portal,2022-01-01,2024-12-31,Quarterly,100,true
+fund_009,source_010,Alternative Data,2022-01-01,2024-12-31,Monthly,85,false
+fund_010,source_001,Fund Data,2020-01-01,2024-12-31,Daily,100,true
+fund_010,source_020,ESG Database,2020-01-01,2024-12-31,Annual,80,false
+fund_011,source_008,LP System,2018-01-01,2024-12-31,Quarterly,100,true
+fund_011,source_012,Market Data,2018-01-01,2024-12-31,Daily,90,false
+fund_012,source_001,Fund Data,2019-01-01,2024-12-31,Daily,100,true
+fund_012,source_015,ESG Metrics,2019-01-01,2024-12-31,Quarterly,75,false
+fund_013,source_002,LP Reporting,2021-01-01,2024-12-31,Quarterly,100,true
+fund_013,source_019,Industry Database,2021-01-01,2024-12-31,Monthly,85,false
+fund_014,source_003,LP System,2020-01-01,2024-12-31,Quarterly,100,true
+fund_014,source_016,Industry Analysis,2020-01-01,2024-12-31,Monthly,80,false
+fund_015,source_004,LP Portal,2022-01-01,2024-12-31,Quarterly,100,true
+fund_015,source_018,PEI Alternative Data,2022-01-01,2024-12-31,Weekly,90,false
+fund_016,source_005,Direct Feed,2019-01-01,2024-12-31,Monthly,100,true
+fund_017,source_006,LP Reports,2020-01-01,2024-12-31,Quarterly,100,true
+fund_018,source_001,Fund Data,2021-01-01,2024-12-31,Daily,100,true
+fund_019,source_007,Investor Portal,2018-01-01,2024-12-31,Quarterly,100,true
+fund_020,source_001,Fund Data,2022-01-01,2024-12-31,Daily,100,true
+fund_021,source_002,LP Reporting,2023-01-01,2024-12-31,Quarterly,95,true
+fund_022,source_009,Performance Metrics,2020-01-01,2024-12-31,Quarterly,90,false
+fund_023,source_010,Alternative Data,2019-01-01,2024-12-31,Monthly,85,false
+fund_024,source_011,Performance Benchmarks,2021-01-01,2024-12-31,Quarterly,95,false
+fund_025,source_012,Market Data,2020-01-01,2024-12-31,Daily,95,false
+fund_001,source_017,Manual Entry,2023-06-01,2024-12-31,Ad-hoc,60,false
+fund_002,source_017,Manual Entry,2023-09-01,2024-12-31,Ad-hoc,55,false
+fund_003,source_018,PEI Alternative Data,2022-01-01,2024-12-31,Weekly,85,false
+fund_004,source_019,Industry Database,2020-01-01,2024-12-31,Monthly,80,false
+fund_005,source_020,ESG Database,2021-01-01,2024-12-31,Annual,75,false

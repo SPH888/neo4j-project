@@ -1,0 +1,55 @@
+article_id,person_id,share_date,share_source_person,share_method,read_status,relevance_score
+art_001,per_002,2025-11-14,per_001,Direct message,Read,95
+art_001,per_003,2025-11-14,per_001,Email forward,Read,85
+art_001,per_010,2025-11-15,per_008,Newsletter,Unread,70
+art_001,per_011,2025-11-15,per_008,Newsletter,Read,75
+art_002,per_001,2025-11-10,per_002,Team update,Read,100
+art_002,per_004,2025-11-11,per_006,Social share,Read,80
+art_002,per_012,2025-11-11,per_002,Email,Read,90
+art_002,per_013,2025-11-12,per_009,LP bulletin,Read,85
+art_003,per_005,2025-11-07,per_008,Direct share,Read,88
+art_003,per_014,2025-11-08,per_004,Internal memo,Read,75
+art_003,per_015,2025-11-08,per_008,Email list,Unread,65
+art_004,per_001,2025-11-03,per_006,Deal alert,Read,92
+art_004,per_016,2025-11-04,per_010,Portfolio review,Read,78
+art_004,per_017,2025-11-04,per_006,Team share,Read,82
+art_005,per_006,2025-10-28,per_003,Executive update,Read,95
+art_005,per_018,2025-10-29,per_011,Market watch,Read,70
+art_006,per_019,2025-10-25,per_004,Industry news,Read,77
+art_007,per_020,2025-10-22,per_007,Newsletter,Read,83
+art_008,per_021,2025-10-18,per_013,LP network,Read,89
+art_008,per_010,2025-10-19,per_013,Direct share,Read,91
+art_009,per_022,2025-10-15,per_005,Tech update,Read,94
+art_010,per_023,2025-10-10,per_010,Report distribution,Read,86
+art_010,per_024,2025-10-11,per_014,IC materials,Read,90
+art_011,per_025,2025-10-08,per_015,Interview share,Read,72
+art_012,per_026,2025-10-05,per_012,Opinion circulation,Read,68
+art_013,per_027,2025-10-03,per_011,Analysis forward,Read,87
+art_014,per_028,2025-09-30,per_016,Quarterly digest,Read,74
+art_015,per_029,2025-09-27,per_017,Feature highlight,Read,81
+art_016,per_030,2025-09-25,per_002,Board package,Read,96
+art_016,per_031,2025-09-25,per_002,Board package,Read,94
+art_017,per_032,2025-09-22,per_018,ESG update,Read,76
+art_018,per_033,2025-09-20,per_019,Breaking news,Read,88
+art_019,per_034,2025-09-18,per_020,Deal announcement,Read,85
+art_020,per_035,2025-09-15,per_003,Leadership share,Read,92
+art_021,per_036,2025-09-12,per_021,Market insights,Unread,73
+art_022,per_037,2025-09-10,per_022,Strategy input,Read,79
+art_023,per_038,2025-09-07,per_007,Digital focus,Read,90
+art_024,per_039,2025-09-05,per_023,Feature article,Read,69
+art_025,per_040,2025-09-02,per_024,Data report,Read,84
+art_026,per_041,2025-08-30,per_009,Asia insights,Read,82
+art_027,per_042,2025-08-28,per_025,ESG briefing,Read,77
+art_028,per_043,2025-08-25,per_026,Weekly roundup,Unread,65
+art_029,per_044,2025-08-22,per_027,Energy news,Read,86
+art_030,per_045,2025-08-20,per_028,Team update,Read,71
+art_001,per_046,2025-11-15,per_001,Executive share,Read,80
+art_005,per_047,2025-10-29,per_030,Fund news,Read,75
+art_010,per_048,2025-10-12,per_031,Trend analysis,Read,83
+art_015,per_049,2025-09-28,per_032,Weekend reading,Unread,60
+art_020,per_050,2025-09-16,per_033,Interview notes,Read,78
+art_025,per_009,2025-09-03,per_034,Research share,Read,88
+art_002,per_007,2025-11-11,per_029,Competitive intel,Read,91
+art_007,per_005,2025-10-23,per_007,Solar focus,Read,87
+art_012,per_003,2025-10-06,per_012,Thought leadership,Read,72
+art_018,per_001,2025-09-21,per_019,News alert,Read,85

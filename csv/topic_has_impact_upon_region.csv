@@ -1,0 +1,76 @@
+topic_id,region_id,impact_type,impact_magnitude,time_horizon,confidence_level,impact_description
+topic_001,region_004,Leadership,9,Long-term,High,Europe leading global energy transition
+topic_001,region_007,Growth,8,Medium-term,High,China massive renewable deployment
+topic_001,region_003,Transition,7,Medium-term,Medium,North America energy independence shift
+topic_002,region_010,Innovation,9,Long-term,High,Singapore digital infrastructure hub
+topic_002,region_011,Growth,8,Medium-term,High,India digital transformation acceleration
+topic_002,region_001,Maturity,6,Short-term,Medium,US digital infrastructure saturation
+topic_003,region_004,Regulatory,9,Short-term,High,EU leading ESG regulation globally
+topic_003,region_012,Adoption,7,Medium-term,Medium,Japan ESG integration
+topic_003,region_001,Evolution,6,Medium-term,Low,US ESG framework development
+topic_004,region_001,Impact,8,Short-term,High,Fed policy affecting global markets
+topic_004,region_004,Challenge,7,Short-term,High,ECB policy impacts on infrastructure
+topic_004,region_009,Pressure,6,Medium-term,Medium,Emerging markets rate sensitivity
+topic_005,region_001,Stimulus,8,Medium-term,High,US infrastructure bill implementation
+topic_005,region_007,Investment,9,Long-term,High,China infrastructure spending program
+topic_005,region_004,Recovery,7,Short-term,Medium,EU recovery fund infrastructure allocation
+topic_006,region_014,Growth,9,Long-term,High,Southeast Asia infrastructure gap
+topic_006,region_015,Opportunity,8,Long-term,High,Africa infrastructure development
+topic_006,region_016,Development,7,Medium-term,Medium,Latin America infrastructure needs
+topic_007,region_001,Leadership,9,Long-term,High,US AI infrastructure dominance
+topic_007,region_007,Competition,8,Long-term,High,China AI infrastructure race
+topic_007,region_010,Hub,7,Medium-term,Medium,Singapore AI hub development
+topic_008,region_017,Vulnerability,9,Short-term,High,Pacific islands climate risk
+topic_008,region_018,Risk,8,Medium-term,High,Coastal regions infrastructure threat
+topic_008,region_019,Adaptation,7,Long-term,Medium,Northern regions climate opportunities
+topic_009,region_004,Pioneer,8,Medium-term,High,Europe hydrogen economy leadership
+topic_009,region_012,Investment,7,Long-term,Medium,Japan hydrogen infrastructure
+topic_009,region_020,Development,6,Long-term,Low,Australia hydrogen export infrastructure
+topic_010,region_002,Impact,8,Short-term,High,UK post-Brexit regulatory changes
+topic_010,region_004,Harmonization,7,Medium-term,Medium,EU regulatory framework evolution
+topic_010,region_001,Reform,6,Medium-term,Low,US infrastructure regulation updates
+topic_011,region_007,Resilience,8,Medium-term,High,China supply chain dominance
+topic_011,region_014,Integration,7,Long-term,Medium,ASEAN supply chain integration
+topic_011,region_003,Reshoring,6,Medium-term,Medium,North America supply chain restructuring
+topic_012,region_001,Modernization,8,Long-term,High,US grid infrastructure investment
+topic_012,region_004,Integration,7,Medium-term,Medium,European grid interconnection
+topic_012,region_011,Challenge,9,Long-term,High,India grid expansion needs
+topic_013,region_007,Deployment,9,Medium-term,High,China 5G infrastructure leadership
+topic_013,region_021,Early adopter,8,Short-term,High,South Korea 5G deployment
+topic_013,region_001,Competition,7,Medium-term,Medium,US 5G infrastructure race
+topic_014,region_001,Innovation,8,Long-term,High,US healthcare infrastructure leadership
+topic_014,region_004,Investment,7,Medium-term,Medium,Europe healthcare modernization
+topic_014,region_012,Technology,6,Long-term,Low,Japan healthcare tech infrastructure
+topic_015,region_022,Opportunity,8,Long-term,High,Middle East carbon capture investment
+topic_015,region_001,Development,7,Medium-term,Medium,US carbon capture infrastructure
+topic_015,region_004,Innovation,6,Long-term,Low,Europe carbon capture technology
+topic_016,region_001,Universal,7,Medium-term,Medium,US rural broadband expansion
+topic_016,region_015,Leapfrog,8,Long-term,High,Africa mobile broadband infrastructure
+topic_016,region_011,Growth,9,Medium-term,High,India broadband penetration
+topic_017,region_001,Testing,8,Medium-term,High,US autonomous vehicle infrastructure
+topic_017,region_007,Development,7,Long-term,Medium,China smart transport infrastructure
+topic_017,region_010,Pilot,6,Short-term,Low,Singapore autonomous transport trials
+topic_018,region_004,Leadership,8,Long-term,High,EU circular economy infrastructure
+topic_018,region_012,Efficiency,7,Medium-term,Medium,Japan resource efficiency infrastructure
+topic_018,region_023,Innovation,6,Long-term,Low,Scandinavia circular economy models
+topic_019,region_004,Volatility,7,Short-term,High,European energy market dynamics
+topic_019,region_001,Stability,6,Medium-term,Medium,US energy market evolution
+topic_019,region_022,Transition,8,Long-term,High,Middle East energy diversification
+topic_020,region_001,Growth,8,Medium-term,High,US battery storage deployment
+topic_020,region_020,Resources,9,Long-term,High,Australia battery mineral infrastructure
+topic_020,region_007,Manufacturing,8,Medium-term,High,China battery production dominance
+topic_021,region_001,Priority,9,Short-term,High,US critical infrastructure cybersecurity
+topic_021,region_004,Regulation,7,Medium-term,Medium,EU cyber resilience requirements
+topic_021,region_024,Risk,8,Short-term,High,Eastern Europe cyber threat exposure
+topic_022,region_010,Innovation,8,Long-term,High,Singapore fintech infrastructure hub
+topic_022,region_002,Evolution,7,Medium-term,Medium,UK infrastructure finance innovation
+topic_022,region_025,Growth,6,Long-term,Low,Dubai infrastructure finance center
+topic_023,region_010,Leadership,9,Medium-term,High,Singapore smart nation infrastructure
+topic_023,region_025,Development,7,Long-term,Medium,UAE smart city projects
+topic_023,region_007,Scale,8,Long-term,High,China smart city deployments
+topic_024,region_001,Dominance,9,Long-term,High,US space infrastructure leadership
+topic_024,region_007,Competition,8,Long-term,High,China space infrastructure ambitions
+topic_024,region_004,Collaboration,6,Medium-term,Low,Europe space infrastructure cooperation
+topic_025,region_012,Challenge,9,Long-term,High,Japan aging society infrastructure needs
+topic_025,region_004,Adaptation,8,Medium-term,High,Europe demographic infrastructure shift
+topic_025,region_007,Transition,7,Long-term,Medium,China aging population infrastructure

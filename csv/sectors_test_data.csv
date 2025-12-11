@@ -1,0 +1,21 @@
+sector_id,sector_name,parent_sector,sector_level,sector_description,typical_asset_types,risk_profile,market_maturity,esg_impact,is_active,display_order
+sector_001,Energy transition,,Primary,Infrastructure assets enabling the shift from fossil fuels to sustainable energy sources,"Battery storage; Green hydrogen; Carbon capture; Grid modernization",Medium,Emerging,Very High,TRUE,1
+sector_002,Renewables,,Primary,Clean energy generation from renewable sources,"Solar farms; Wind farms; Hydroelectric; Biomass; Geothermal",Low-Medium,Mature,Very High,TRUE,2
+sector_003,Digital infrastructure,,Primary,Physical assets enabling digital connectivity and computing,"Data centres; Fiber networks; Telecom towers; Subsea cables; Edge computing",Low,Growth,Medium,TRUE,3
+sector_004,Transport,,Primary,Infrastructure for movement of people and goods,"Toll roads; Airports; Ports; Rail; Logistics hubs",Low,Mature,Medium,TRUE,4
+sector_005,Data centres,Digital infrastructure,Secondary,Purpose-built facilities for IT equipment and data storage,"Hyperscale; Colocation; Enterprise; Edge data centres",Low,Growth,Medium,TRUE,5
+sector_006,Solar,Renewables,Secondary,Solar power generation assets,"Utility-scale solar; Distributed solar; Solar-plus-storage",Low,Mature,Very High,TRUE,6
+sector_007,Wind,Renewables,Secondary,Wind power generation assets,"Onshore wind; Offshore wind; Distributed wind",Low-Medium,Mature,Very High,TRUE,7
+sector_008,Fiber networks,Digital infrastructure,Secondary,High-speed data transmission infrastructure,"Metro fiber; Long-haul fiber; Fiber-to-the-premises; Subsea cables",Low,Growth,Medium,TRUE,8
+sector_009,Energy storage,Energy transition,Secondary,Assets for storing energy to balance supply and demand,"Battery storage; Pumped hydro; Compressed air; Thermal storage",Medium,Emerging,Very High,TRUE,9
+sector_010,Utilities,,Primary,Essential service infrastructure,"Water treatment; Waste management; District energy; Gas distribution",Very Low,Mature,High,TRUE,10
+sector_011,Social infrastructure,,Primary,Assets serving community and public needs,"Healthcare facilities; Education facilities; Government buildings; Social housing",Very Low,Mature,High,TRUE,11
+sector_012,Airports,Transport,Secondary,Air transportation infrastructure,"International airports; Regional airports; Cargo terminals",Low,Mature,Low,TRUE,12
+sector_013,Ports,Transport,Secondary,Maritime transportation infrastructure,"Container ports; Bulk ports; LNG terminals; Ferry terminals",Low,Mature,Medium,TRUE,13
+sector_014,Toll roads,Transport,Secondary,Fee-based road infrastructure,"Highways; Bridges; Tunnels",Very Low,Mature,Low,TRUE,14
+sector_015,Telecom towers,Digital infrastructure,Secondary,Wireless communication infrastructure,"Macro towers; Small cells; DAS systems; Broadcast towers",Low,Mature,Medium,TRUE,15
+sector_016,Hydrogen,Energy transition,Secondary,Infrastructure for hydrogen economy,"Green hydrogen production; Blue hydrogen; Storage; Distribution",High,Emerging,Very High,TRUE,16
+sector_017,Water,Utilities,Secondary,Water and wastewater infrastructure,"Water treatment plants; Distribution networks; Desalination",Very Low,Mature,High,TRUE,17
+sector_018,Waste management,Utilities,Secondary,Waste processing and disposal infrastructure,"Waste-to-energy; Recycling facilities; Landfills",Low,Mature,High,TRUE,18
+sector_019,Healthcare,Social infrastructure,Secondary,Medical and health service facilities,"Hospitals; Clinics; Aged care; Medical offices",Very Low,Mature,High,TRUE,19
+sector_020,Education,Social infrastructure,Secondary,Educational facilities and infrastructure,"Schools; Universities; Student housing; Research facilities",Very Low,Mature,High,TRUE,20

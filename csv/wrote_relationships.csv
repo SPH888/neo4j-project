@@ -1,0 +1,36 @@
+person_id,article_id,publication_date,article_type,primary_author
+per_025,art_001,2025-11-14,News,Yes
+per_012,art_002,2025-11-10,News,Yes
+per_030,art_003,2025-11-07,News,Yes
+per_018,art_004,2025-11-03,News,Yes
+per_033,art_005,2025-10-28,Analysis,Yes
+per_022,art_006,2025-10-25,News,Yes
+per_040,art_007,2025-10-22,News,Yes
+per_028,art_008,2025-10-18,Analysis,Yes
+per_015,art_009,2025-10-15,News,Yes
+per_045,art_010,2025-10-10,Market Report,Yes
+per_019,art_011,2025-10-08,Interview,Yes
+per_026,art_012,2025-10-05,Opinion,Yes
+per_038,art_013,2025-10-03,Analysis,Yes
+per_031,art_014,2025-09-30,News,Yes
+per_020,art_015,2025-09-27,Feature,Yes
+per_042,art_016,2025-09-25,News,Yes
+per_027,art_017,2025-09-22,Analysis,Yes
+per_035,art_018,2025-09-20,News,Yes
+per_024,art_019,2025-09-18,News,Yes
+per_039,art_020,2025-09-15,Interview,Yes
+per_021,art_021,2025-09-12,Analysis,Yes
+per_044,art_022,2025-09-10,Opinion,Yes
+per_032,art_023,2025-09-07,News,Yes
+per_029,art_024,2025-09-05,Feature,Yes
+per_037,art_025,2025-09-02,Market Report,Yes
+per_023,art_026,2025-08-30,News,Yes
+per_041,art_027,2025-08-28,Analysis,Yes
+per_034,art_028,2025-08-25,News,Yes
+per_046,art_029,2025-08-22,Feature,Yes
+per_036,art_030,2025-08-20,News,Yes
+per_025,art_008,2025-10-18,Analysis,No
+per_018,art_012,2025-10-05,Opinion,No
+per_030,art_015,2025-09-27,Feature,No
+per_033,art_020,2025-09-15,Interview,No
+per_040,art_022,2025-09-10,Opinion,No

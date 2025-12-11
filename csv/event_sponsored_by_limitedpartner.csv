@@ -1,0 +1,21 @@
+event_id,lp_id,sponsorship_level,sponsorship_amount_usd,focus_area,delegation_size
+event_001,lp_001,Gold,100000,LP Forum,8
+event_002,lp_002,Silver,50000,Pension Summit,5
+event_003,lp_007,Bronze,25000,Networking,3
+event_004,lp_003,Gold,125000,Sovereign Wealth,10
+event_005,lp_005,Silver,60000,Insurance Focus,4
+event_006,lp_008,Bronze,30000,Regional Meeting,3
+event_007,lp_004,Gold,110000,Endowment Track,6
+event_008,lp_001,Platinum,200000,LP Leadership,12
+event_009,lp_006,Silver,55000,European LPs,4
+event_010,lp_009,Bronze,35000,Family Office,2
+event_011,lp_010,Gold,115000,Corporate Pension,7
+event_012,lp_002,Silver,65000,Canadian Investors,5
+event_013,lp_011,Bronze,28000,Foundation Focus,2
+event_014,lp_012,Gold,120000,Development Finance,8
+event_015,lp_013,Silver,58000,Insurance Round,4
+event_016,lp_014,Bronze,32000,Regional Focus,3
+event_017,lp_015,Gold,105000,Public Pension,9
+event_018,lp_007,Silver,62000,Asset Allocation,5
+event_019,lp_016,Bronze,27000,Emerging Markets,2
+event_020,lp_001,Gold,130000,Annual LP Meeting,10

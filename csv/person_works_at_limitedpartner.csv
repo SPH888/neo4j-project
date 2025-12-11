@@ -1,0 +1,16 @@
+person_id,lp_id,start_date,role
+per_016,lp_001,2020-01-01,CIO
+per_017,lp_002,2020-01-01,CIO
+per_018,lp_003,2020-01-01,Global Head of Infrastructure
+per_019,lp_010,2020-01-01,CIO Real Assets
+per_021,lp_004,2020-01-01,CIO
+per_022,lp_005,2020-01-01,CIO
+per_023,lp_008,2020-01-01,CIO
+per_024,lp_022,2020-01-01,CIO
+per_025,lp_015,2020-01-01,Global Head of Infrastructure
+per_026,lp_026,2020-01-01,Head of Infrastructure
+per_028,lp_013,2020-01-01,Head of Real Assets
+per_029,lp_030,2020-01-01,Head of Infrastructure
+per_030,lp_014,2020-01-01,Head of Infrastructure Americas
+per_043,lp_010,2020-01-01,Director
+per_049,lp_001,2020-01-01,Senior Analyst

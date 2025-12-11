@@ -1,0 +1,57 @@
+topic_id,sector_id,impact_type,impact_magnitude,time_horizon,confidence_level,impact_description
+topic_001,sector_003,Transformative,9,Long-term,High,Energy transition driving renewable infrastructure growth
+topic_001,sector_012,Disruption,8,Medium-term,High,Fossil fuel displacement accelerating
+topic_001,sector_005,Opportunity,7,Short-term,Medium,Grid modernization requirements
+topic_002,sector_008,Growth,8,Long-term,High,Digital transformation accelerating data center demand
+topic_002,sector_004,Modernization,6,Medium-term,Medium,Telecom infrastructure upgrades needed
+topic_002,sector_016,Opportunity,7,Short-term,High,Smart city initiatives driving investment
+topic_003,sector_001,Regulatory,7,Short-term,High,ESG compliance affecting all infrastructure sectors
+topic_003,sector_003,Positive,9,Long-term,High,ESG focus benefiting clean energy
+topic_003,sector_012,Risk,8,Medium-term,High,Stranded asset risk for carbon-intensive sectors
+topic_004,sector_006,Challenge,8,Short-term,High,Rising rates impacting real estate valuations
+topic_004,sector_009,Pressure,7,Medium-term,Medium,Refinancing challenges for leveraged assets
+topic_004,sector_015,Mixed,5,Short-term,Low,Variable impact on transport assets
+topic_005,sector_014,Positive,8,Long-term,High,Increased government infrastructure spending
+topic_005,sector_007,Growth,7,Medium-term,Medium,Social infrastructure investment programs
+topic_005,sector_002,Opportunity,6,Short-term,Medium,Water infrastructure modernization funding
+topic_006,sector_010,Expansion,9,Long-term,High,Emerging markets infrastructure gap
+topic_006,sector_011,Growth,8,Long-term,High,Emerging markets energy demand
+topic_007,sector_009,Innovation,7,Medium-term,Medium,AI transforming asset management
+topic_007,sector_008,Revolution,9,Long-term,High,AI driving data center demand exponentially
+topic_008,sector_001,Systemic,6,Long-term,Medium,Climate adaptation across all infrastructure
+topic_008,sector_002,Critical,8,Medium-term,High,Water infrastructure climate resilience
+topic_008,sector_017,Risk,7,Short-term,High,Coastal infrastructure vulnerability
+topic_009,sector_003,Acceleration,8,Medium-term,High,Hydrogen economy emerging opportunities
+topic_009,sector_018,Growth,6,Long-term,Medium,Hydrogen transport infrastructure needs
+topic_010,sector_006,Regulatory,7,Short-term,High,Real estate regulatory changes
+topic_010,sector_001,Compliance,6,Medium-term,Medium,Infrastructure regulatory harmonization
+topic_011,sector_019,Strategic,8,Long-term,High,Supply chain infrastructure criticality
+topic_011,sector_015,Growth,7,Medium-term,Medium,Logistics infrastructure expansion
+topic_012,sector_005,Modernization,8,Long-term,High,Grid infrastructure overhaul required
+topic_012,sector_003,Enabler,9,Long-term,High,Grid flexibility enabling renewables
+topic_013,sector_004,Transformation,9,Long-term,High,5G infrastructure rollout
+topic_013,sector_008,Catalyst,8,Medium-term,High,5G enabling edge computing growth
+topic_014,sector_007,Investment,7,Long-term,Medium,Healthcare infrastructure modernization
+topic_014,sector_020,Growth,6,Medium-term,Medium,Life sciences infrastructure needs
+topic_015,sector_012,Transition,8,Long-term,High,Carbon capture infrastructure development
+topic_015,sector_011,Innovation,7,Medium-term,Medium,Clean energy solutions for traditional sectors
+topic_016,sector_004,Evolution,8,Long-term,High,Fiber optic infrastructure expansion
+topic_016,sector_008,Demand,9,Medium-term,High,Broadband driving data center locations
+topic_017,sector_015,Mixed,6,Medium-term,Medium,Autonomous vehicles impact on transport
+topic_017,sector_006,Disruption,7,Long-term,Medium,Autonomous impact on parking infrastructure
+topic_018,sector_002,Opportunity,8,Long-term,High,Circular economy water infrastructure
+topic_018,sector_013,Growth,7,Medium-term,Medium,Waste-to-energy infrastructure expansion
+topic_019,sector_003,Volatility,6,Short-term,Medium,Renewable energy market dynamics
+topic_019,sector_011,Pressure,5,Short-term,Low,Energy market competition
+topic_020,sector_005,Investment,8,Long-term,High,Battery storage infrastructure boom
+topic_020,sector_003,Enabler,9,Long-term,High,Storage solving renewable intermittency
+topic_021,sector_020,Protection,7,Medium-term,High,Cybersecurity for critical infrastructure
+topic_021,sector_008,Critical,9,Short-term,High,Data center security requirements
+topic_022,sector_010,Development,8,Long-term,High,Infrastructure project financing evolution
+topic_022,sector_001,Innovation,6,Medium-term,Medium,Alternative financing structures
+topic_023,sector_002,Efficiency,7,Long-term,Medium,Smart water infrastructure
+topic_023,sector_016,Integration,8,Medium-term,High,Smart city platform development
+topic_024,sector_019,Expansion,7,Long-term,Medium,Space infrastructure emerging sector
+topic_024,sector_004,Growth,8,Medium-term,High,Satellite communication infrastructure
+topic_025,sector_007,Investment,8,Long-term,High,Aging population infrastructure needs
+topic_025,sector_014,Adaptation,7,Medium-term,Medium,Demographic shifts affecting infrastructure

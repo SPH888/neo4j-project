@@ -1,0 +1,21 @@
+person_id,gp_id,start_date,role
+per_001,gp_001,2020-01-01,Chairman & CEO
+per_002,gp_002,2020-01-01,Chairman & CEO
+per_003,gp_003,2020-01-01,CEO
+per_004,gp_006,2020-01-01,CEO
+per_005,gp_007,2020-01-01,Co-founder & Senior Partner
+per_006,gp_004,2020-01-01,Managing Director & Head of Asia
+per_007,gp_010,2020-01-01,CEO
+per_008,gp_021,2020-01-01,Senior Partner
+per_009,gp_027,2020-01-01,CEO
+per_010,gp_013,2020-01-01,Managing Partner
+per_011,gp_011,2020-01-01,Global Head of Infrastructure
+per_012,gp_026,2020-01-01,CEO
+per_014,gp_007,2020-01-01,Co-founder & Managing Partner
+per_015,gp_014,2020-01-01,Senior MD & Global Head
+per_041,gp_002,2020-01-01,Vice President
+per_042,gp_009,2020-01-01,Principal
+per_045,gp_022,2020-01-01,Senior Associate
+per_046,gp_007,2020-01-01,Vice President
+per_047,gp_021,2020-01-01,Senior Manager
+per_050,gp_004,2020-01-01,Associate

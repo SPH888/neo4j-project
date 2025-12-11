@@ -1,0 +1,13 @@
+fund_id,snapshot_id,snapshot_date
+fund_001,snap_001,2023-12-31
+fund_001,snap_002,2023-09-30
+fund_001,snap_003,2023-06-30
+fund_002,snap_006,2023-12-31
+fund_002,snap_007,2023-09-30
+fund_003,snap_009,2023-12-31
+fund_003,snap_010,2023-09-30
+fund_004,snap_012,2023-12-31
+fund_005,snap_014,2023-12-31
+fund_006,snap_015,2023-12-31
+fund_005,snap_017,2023-09-30
+fund_015,snap_019,2023-12-31

@@ -1,0 +1,41 @@
+article_id,event_id,mention_count,context,event_coverage_type
+art_2024_11_001,evt_001,5,event_coverage,Pre-Event Announcement
+art_2024_10_028,evt_002,8,primary_subject,Full Conference Coverage
+art_2024_10_025,evt_001,3,reference,Post-Event Highlights
+art_2024_10_022,evt_003,12,event_recap,Keynote Summary
+art_2024_10_018,evt_004,2,upcoming_event,Registration Open
+art_2024_10_015,evt_005,7,speaker_preview,Featured Speakers
+art_2024_10_012,evt_001,4,panel_coverage,Panel Discussion Recap
+art_2024_10_009,evt_006,9,exclusive_coverage,Live Reporting
+art_2024_09_27,evt_007,3,event_mention,Related Industry Event
+art_2024_09_23,evt_008,6,event_analysis,Market Impact Analysis
+art_2024_09_15,evt_001,11,detailed_review,Complete Event Review
+art_2024_09_11,evt_009,2,brief_mention,Upcoming Calendar
+art_2024_09_07,evt_010,5,sponsor_highlight,Sponsorship Announcement
+art_2024_09_03,evt_002,4,attendee_insights,Participant Interviews
+art_2024_08_30,evt_011,8,virtual_coverage,Virtual Session Highlights
+art_2024_08_26,evt_012,3,award_coverage,Award Winners
+art_2024_08_22,evt_001,7,networking_recap,Networking Outcomes
+art_2024_08_18,evt_013,4,research_presented,Research Presentations
+art_2024_08_14,evt_002,6,policy_discussion,Regulatory Updates
+art_2024_08_10,evt_014,5,market_outlook,2025 Predictions
+art_2024_11_001,evt_015,2,future_event,Save the Date
+art_2024_10_028,evt_003,3,speaker_quotes,CEO Perspectives
+art_2024_10_025,evt_016,4,regional_focus,APAC Infrastructure Summit
+art_2024_09_15,evt_017,5,special_report,Sustainability Focus
+art_2024_09_11,evt_001,6,anniversary_coverage,10th Annual Review
+art_2024_08_30,evt_018,3,innovation_showcase,Tech Demonstrations
+art_2024_08_26,evt_007,4,partnership_announcement,Strategic Alliance
+art_2024_08_22,evt_019,7,debate_coverage,Industry Debate
+art_2024_08_18,evt_002,5,workshop_summary,Masterclass Insights
+art_2024_08_14,evt_020,8,year_end_review,Annual Retrospective
+art_2024_10_022,evt_006,2,brief_reference,Related Discussion
+art_2024_10_015,evt_008,3,comparative_analysis,Event Comparison
+art_2024_09_27,evt_011,4,virtual_attendance,Digital Participation Stats
+art_2024_09_23,evt_013,5,breakout_sessions,Track Summaries
+art_2024_08_10,evt_015,3,registration_metrics,Attendance Analysis
+art_2024_11_001,evt_003,2,sidebar_mention,Event Sidebar
+art_2024_10_028,evt_009,4,sponsor_interview,Sponsor Q&A
+art_2024_10_025,evt_012,3,venue_review,Location Analysis
+art_2024_09_15,evt_014,6,delegation_analysis,LP Participation Review
+art_2024_08_30,evt_016,2,upcoming_preview,Advance Program Review

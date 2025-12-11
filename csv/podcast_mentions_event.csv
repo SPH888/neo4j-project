@@ -1,0 +1,41 @@
+podcast_id,event_id,mention_count,context,coverage_type
+pod_2024_001,evt_001,8,event_preview,Pre-Event Discussion
+pod_2024_002,evt_002,12,live_coverage,During Event Commentary
+pod_2024_003,evt_001,5,recap_discussion,Post-Event Analysis
+pod_2024_004,evt_003,3,brief_mention,Event Reference
+pod_2024_005,evt_004,15,keynote_highlights,Keynote Coverage
+pod_2024_006,evt_005,7,panel_discussion,Panel Review
+pod_2024_007,evt_006,9,exclusive_interview,Speaker Interview
+pod_2024_008,evt_001,4,networking_outcomes,Deal Discussion
+pod_2024_009,evt_007,6,virtual_event,Virtual Format Review
+pod_2024_010,evt_008,10,conference_insights,Market Analysis
+pod_2024_011,evt_009,2,upcoming_preview,Registration Open
+pod_2024_012,evt_010,8,award_ceremony,Award Coverage
+pod_2024_013,evt_001,11,anniversary_special,10th Annual Review
+pod_2024_014,evt_011,5,sustainability_focus,ESG Discussion
+pod_2024_015,evt_012,7,regional_summit,APAC Coverage
+pod_2024_016,evt_002,4,sponsor_interview,Sponsor Perspective
+pod_2024_017,evt_013,9,innovation_showcase,Tech Demos
+pod_2024_018,evt_014,3,policy_discussion,Regulatory Update
+pod_2024_019,evt_015,6,year_ahead,2025 Preview
+pod_2024_020,evt_001,8,best_moments,Highlight Reel
+pod_2024_001,evt_016,5,breaking_news,Deal Announcement
+pod_2024_002,evt_017,7,climate_summit,Climate Focus
+pod_2024_003,evt_018,4,virtual_effectiveness,Format Comparison
+pod_2024_004,evt_002,10,asia_opportunities,Regional Focus
+pod_2024_005,evt_019,3,debate_coverage,Industry Debate
+pod_2024_006,evt_020,12,year_end_review,Annual Retrospective
+pod_2024_007,evt_003,6,speaker_preview,Featured Speakers
+pod_2024_008,evt_004,8,registration_metrics,Attendance Analysis
+pod_2024_009,evt_005,5,innovation_trends,Future Tech
+pod_2024_010,evt_001,7,networking_value,Relationship Building
+pod_2024_011,evt_006,4,energy_transition,Sector Focus
+pod_2024_012,evt_007,9,summit_outcomes,Key Takeaways
+pod_2024_013,evt_008,3,conference_comparison,Event Analysis
+pod_2024_014,evt_009,6,digital_infrastructure,Tech Infrastructure
+pod_2024_015,evt_002,8,lp_perspectives,Investor Views
+pod_2024_016,evt_010,5,deal_pipeline,Transaction Preview
+pod_2024_017,evt_011,7,esg_awards,Sustainability Winners
+pod_2024_018,evt_012,4,market_outlook,Economic Context
+pod_2024_019,evt_013,10,future_trends,Industry Outlook
+pod_2024_020,evt_003,6,weekly_roundup,Conference Digest

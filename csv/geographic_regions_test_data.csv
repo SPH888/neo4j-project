@@ -1,0 +1,26 @@
+region_id,region_name,region_type,parent_region,region_code,gdp_usd_billions,population_millions,infrastructure_investment_usd_billions,market_maturity,regulatory_stability,currency_code,languages,time_zones,key_cities,infrastructure_needs_score,ppp_framework_score,esg_regulatory_score,is_active,display_order
+region_001,North America,Continental,,NA,25500,579,450,Mature,High,USD,"English; Spanish; French",UTC-5 to UTC-10,"New York; Toronto; Mexico City",Medium,High,High,TRUE,1
+region_002,Europe,Continental,,EU,18800,447,380,Mature,High,EUR,"English; German; French; Spanish",UTC to UTC+3,"London; Frankfurt; Paris; Madrid",Medium,High,Very High,TRUE,2
+region_003,Asia-Pacific,Continental,,APAC,35200,4600,820,Mixed,Medium,Multiple,"English; Mandarin; Japanese; Hindi",UTC+5:30 to UTC+12,"Singapore; Tokyo; Sydney; Mumbai",Very High,Medium,Medium,TRUE,3
+region_004,Latin America,Continental,,LATAM,6200,650,125,Emerging,Medium,Multiple,"Spanish; Portuguese; English",UTC-6 to UTC-3,"São Paulo; Mexico City; Buenos Aires",High,Medium,Medium,TRUE,4
+region_005,Middle East,Continental,,ME,3800,371,95,Growth,Medium,Multiple,"Arabic; English; Hebrew",UTC+2 to UTC+4,"Dubai; Riyadh; Tel Aviv",High,Medium,Low,TRUE,5
+region_006,Africa,Continental,,AF,2960,1408,87,Emerging,Low,Multiple,"English; French; Arabic; Portuguese",UTC to UTC+3,"Lagos; Cairo; Johannesburg",Very High,Low,Low,TRUE,6
+region_007,United States,Country,North America,US,25462,334,380,Mature,High,USD,English,UTC-5 to UTC-10,"New York; Los Angeles; Chicago",Medium,High,High,TRUE,7
+region_008,Canada,Country,North America,CA,2140,39,65,Mature,High,CAD,"English; French",UTC-4 to UTC-8,"Toronto; Vancouver; Montreal",Medium,High,High,TRUE,8
+region_009,United Kingdom,Country,Europe,UK,3131,67,48,Mature,High,GBP,English,UTC,"London; Manchester; Edinburgh",Medium,High,High,TRUE,9
+region_010,Germany,Country,Europe,DE,4260,84,42,Mature,High,EUR,German,UTC+1,"Berlin; Frankfurt; Munich",Low,High,Very High,TRUE,10
+region_011,France,Country,Europe,FR,2958,65,40,Mature,High,EUR,French,UTC+1,"Paris; Lyon; Marseille",Medium,High,High,TRUE,11
+region_012,Australia,Country,Asia-Pacific,AU,1553,26,52,Mature,High,AUD,English,UTC+8 to UTC+11,"Sydney; Melbourne; Brisbane",Medium,High,High,TRUE,12
+region_013,Japan,Country,Asia-Pacific,JP,4231,125,78,Mature,High,JPY,Japanese,UTC+9,"Tokyo; Osaka; Nagoya",Medium,High,High,TRUE,13
+region_014,Singapore,Country,Asia-Pacific,SG,497,5.9,15,Mature,High,SGD,"English; Mandarin; Malay",UTC+8,Singapore,Low,Very High,High,TRUE,14
+region_015,China,Country,Asia-Pacific,CN,17963,1412,890,Growth,Medium,CNY,Mandarin,UTC+8,"Beijing; Shanghai; Shenzhen",Very High,Medium,Medium,TRUE,15
+region_016,India,Country,Asia-Pacific,IN,3732,1428,145,Emerging,Medium,INR,"Hindi; English",UTC+5:30,"Mumbai; Delhi; Bangalore",Very High,Medium,Medium,TRUE,16
+region_017,Brazil,Country,Latin America,BR,2127,215,38,Emerging,Medium,BRL,Portuguese,UTC-3,"São Paulo; Rio de Janeiro; Brasília",High,Medium,Medium,TRUE,17
+region_018,Mexico,Country,Latin America,MX,1414,128,25,Growth,Medium,MXN,Spanish,UTC-6,"Mexico City; Guadalajara; Monterrey",High,Medium,Medium,TRUE,18
+region_019,UAE,Country,Middle East,AE,450,9.4,18,Growth,High,AED,"Arabic; English",UTC+4,"Dubai; Abu Dhabi",Medium,High,Medium,TRUE,19
+region_020,Saudi Arabia,Country,Middle East,SA,833,36,32,Growth,Medium,SAR,"Arabic; English",UTC+3,"Riyadh; Jeddah; Dammam",High,Medium,Low,TRUE,20
+region_021,South Africa,Country,Africa,ZA,405,60,8,Emerging,Medium,ZAR,"English; Afrikaans; Zulu",UTC+2,"Johannesburg; Cape Town; Durban",High,Medium,Medium,TRUE,21
+region_022,Western Europe,Sub-region,Europe,WEU,14200,396,285,Mature,High,EUR,"English; German; French",UTC to UTC+1,"London; Paris; Amsterdam",Medium,High,Very High,TRUE,22
+region_023,Northern Europe,Sub-region,Europe,NEU,3100,106,95,Mature,Very High,Multiple,"English; Swedish; Danish",UTC to UTC+2,"Stockholm; Copenhagen; Oslo",Low,Very High,Very High,TRUE,23
+region_024,Southeast Asia,Sub-region,Asia-Pacific,SEA,3600,695,125,Growth,Medium,Multiple,"English; Malay; Thai; Vietnamese",UTC+7 to UTC+8,"Singapore; Bangkok; Jakarta",High,Medium,Medium,TRUE,24
+region_025,South Asia,Sub-region,Asia-Pacific,SA,4500,1975,165,Emerging,Medium,Multiple,"Hindi; English; Bengali",UTC+5:30 to UTC+6,"Mumbai; Delhi; Dhaka",Very High,Low,Low,TRUE,25

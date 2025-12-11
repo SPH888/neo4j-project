@@ -1,0 +1,27 @@
+event_id,gp_id,sponsorship_level,sponsorship_amount_usd,brand_visibility,speaking_slots
+event_001,gp_001,Platinum,250000,Title Sponsor,3
+event_001,gp_002,Gold,150000,Main Stage,2
+event_001,gp_003,Silver,75000,Exhibition,1
+event_002,gp_004,Platinum,200000,Title Sponsor,3
+event_002,gp_005,Gold,125000,Track Sponsor,2
+event_003,gp_006,Gold,150000,Networking Sponsor,2
+event_003,gp_007,Silver,75000,Session Sponsor,1
+event_004,gp_008,Platinum,300000,Lead Sponsor,4
+event_005,gp_001,Gold,175000,Panel Sponsor,2
+event_005,gp_009,Silver,80000,Exhibition,1
+event_006,gp_010,Platinum,225000,Title Sponsor,3
+event_007,gp_011,Gold,150000,Lunch Sponsor,2
+event_008,gp_002,Platinum,250000,Conference Partner,3
+event_008,gp_012,Silver,75000,Coffee Sponsor,1
+event_009,gp_013,Gold,160000,Stream Sponsor,2
+event_010,gp_003,Platinum,275000,Summit Partner,3
+event_011,gp_014,Gold,140000,Awards Sponsor,2
+event_012,gp_015,Silver,70000,Registration,1
+event_013,gp_004,Gold,155000,Workshop Sponsor,2
+event_014,gp_001,Platinum,300000,Global Partner,4
+event_015,gp_005,Gold,145000,Innovation Stage,2
+event_016,gp_016,Silver,85000,Startup Pavilion,1
+event_017,gp_006,Gold,165000,Tech Track,2
+event_018,gp_017,Platinum,280000,Lead Partner,3
+event_019,gp_007,Gold,135000,Networking,2
+event_020,gp_018,Silver,90000,Media Partner,1

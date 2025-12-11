@@ -1,0 +1,32 @@
+podcast_id,transaction_id,mention_context,discussion_depth,deal_stage,episode_focus
+pod_001,2024-I2573-2880,Market update,In-depth,Integration,Primary topic
+pod_001,2024-I3048-2904,Comparison,Brief mention,Closed,Example
+pod_002,2024-I2981-2789,Renewable deals,Detailed,Announced,Case study
+pod_003,2024-I3214-2901,Leadership discussion,Extended,Due diligence,Main feature
+pod_004,2024-I2765-2856,Portfolio review,Moderate,Closed,Portfolio context
+pod_005,2024-I3089-2934,LP perspective,In-depth,Closing,Investment focus
+pod_006,2024-I2812-2745,ESG example,Brief mention,Closed,Impact case
+pod_007,2024-I3156-2867,Digital infrastructure,Detailed,Announced,Sector analysis
+pod_008,2024-I2901-2812,Asia Pacific focus,Extended,Due diligence,Regional deal
+pod_009,2024-I3234-2923,Data center boom,In-depth,Announced,Market trend
+pod_010,2024-I2678-2790,Energy transition,Moderate,Closed,Thematic discussion
+pod_011,2024-I3078-2845,Deal structuring,Detailed,Closing,Technical analysis
+pod_012,2024-I2945-2756,Market cycles,Brief mention,Closed,Historical context
+pod_013,2024-I3167-2889,Impact investing,Extended,Announced,ESG focus
+pod_014,2024-I2723-2801,Competition,Moderate,Integration,Market dynamics
+pod_015,2024-I3201-2912,Quarter review,Brief mention,Closed,Performance update
+pod_016,2024-I2856-2834,Breaking analysis,In-depth,Announced,News discussion
+pod_017,2024-I3145-2878,Innovation,Detailed,Due diligence,Tech focus
+pod_018,2024-I2573-2880,Strategy deep dive,Extended,Integration,Strategic review
+pod_019,2024-I3048-2904,Team insights,Moderate,Closed,Leadership view
+pod_020,2024-I2981-2789,Future outlook,Brief mention,Closed,Market forecast
+pod_003,2024-I2765-2856,Mega-deal discussion,Extended,Announced,Industry impact
+pod_005,2024-I2812-2745,Co-investment,In-depth,Closed,LP strategy
+pod_007,2024-I3234-2923,Infrastructure trends,Moderate,Due diligence,Sector outlook
+pod_009,2024-I2678-2790,Historical comparison,Brief mention,Closed,Precedent
+pod_011,2024-I2945-2756,Structuring masterclass,Extended,Closed,Educational
+pod_013,2024-I3156-2867,Sustainability metrics,Detailed,Integration,Impact measurement
+pod_015,2024-I2901-2812,Returns analysis,Moderate,Closed,Performance review
+pod_017,2024-I3089-2934,Technology angle,In-depth,Closed,Innovation story
+pod_019,2024-I3167-2889,Value creation,Extended,Integration,Post-merger
+pod_020,2024-I3145-2878,Year-end review,Moderate,Closed,Annual roundup

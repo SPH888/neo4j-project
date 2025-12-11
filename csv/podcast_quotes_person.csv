@@ -1,0 +1,28 @@
+podcast_id,person_id,quote_context,interview_segment,timestamp_minutes,quote_significance
+pod_001,per_002,Market outlook,Opening Discussion,5,High
+pod_001,per_015,Fund strategy,Main Interview,12,High
+pod_002,per_008,Renewable energy trends,Expert Panel,8,Medium
+pod_002,per_030,European market,Regional Focus,18,High
+pod_003,per_001,Infrastructure evolution,Industry Leadership,10,High
+pod_003,per_006,Digital transformation,Technology Segment,22,Medium
+pod_004,per_003,Portfolio strategy,Investment Philosophy,7,High
+pod_005,per_011,LP perspectives,Investor Views,15,High
+pod_005,per_013,Allocation strategy,Portfolio Discussion,25,Medium
+pod_006,per_018,ESG implementation,Sustainability Focus,9,High
+pod_006,per_032,Climate targets,Impact Metrics,20,High
+pod_007,per_005,Tech infrastructure,Sector Deep Dive,11,High
+pod_008,per_009,Asia Pacific growth,Regional Analysis,6,High
+pod_008,per_041,Emerging markets,Market Expansion,16,Medium
+pod_009,per_007,Data centers,Asset Class Focus,13,High
+pod_010,per_004,Energy transition,Thematic Investing,8,High
+pod_010,per_027,Renewables outlook,Sector Outlook,19,Medium
+pod_011,per_020,Deal structuring,Transaction Insights,14,Medium
+pod_012,per_022,Market cycles,Economic Analysis,10,High
+pod_013,per_025,Impact investing,ESG Strategy,12,High
+pod_014,per_012,Competition landscape,Market Dynamics,9,Medium
+pod_015,per_016,Quarterly review,Performance Update,5,High
+pod_016,per_019,Breaking news,News Analysis,3,High
+pod_017,per_024,Data analytics,Technology Tools,17,Medium
+pod_018,per_026,Portfolio construction,Investment Strategy,11,High
+pod_019,per_028,Team building,Leadership Insights,21,Medium
+pod_020,per_033,Future outlook,Closing Thoughts,28,High

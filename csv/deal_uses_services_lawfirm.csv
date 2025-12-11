@@ -1,0 +1,21 @@
+transaction_id,lawfirm_id,service_type,engagement_date,fees_usd,lead_counsel
+2024-I2573-2880,law_001,M&A Legal,2024-09-01,2500000,true
+2024-I2573-2880,law_005,Regulatory,2024-09-15,850000,false
+2024-I3048-2904,law_003,Consortium Agreement,2024-08-01,3200000,true
+2024-I3048-2904,law_007,Tax Structuring,2024-08-10,1200000,false
+2024-I2981-2789,law_002,Due Diligence,2024-07-15,1800000,true
+2024-I3214-2901,law_004,Fund Formation,2024-06-01,2100000,true
+2024-I2765-2856,law_006,Project Finance,2024-10-01,2750000,true
+2024-I3089-2934,law_008,Acquisition Finance,2024-05-15,1950000,true
+2024-I2812-2745,law_001,Leveraged Buyout,2024-09-20,3500000,true
+2024-I3156-2867,law_009,Joint Venture,2024-04-01,1650000,true
+2024-I2901-2812,law_010,Asset Purchase,2024-08-25,2250000,true
+2024-I3234-2923,law_003,Refinancing,2024-07-01,1450000,false
+2024-I2678-2790,law_011,Cross-Border M&A,2024-06-15,2850000,true
+2024-I3078-2845,law_002,Competition Clearance,2024-10-10,950000,false
+2024-I2945-2756,law_012,Infrastructure M&A,2024-05-01,2400000,true
+2024-I3167-2889,law_004,Privatization,2024-09-05,3100000,true
+2024-I2723-2801,law_013,Debt Restructuring,2024-08-20,1750000,true
+2024-I3201-2912,law_005,Environmental Law,2024-07-25,650000,false
+2024-I2856-2834,law_014,Merger Control,2024-06-20,1100000,false
+2024-I3145-2878,law_015,Partnership Agreement,2024-10-05,1850000,true
